@@ -1,4 +1,4 @@
-# Student-Roster-Project
+# Student Roster
 
 This project involves creating a C++ program that converts an array of strings containing student data into an array of student objects. The program also includes functionality for adding, removing, and printing student data.
 
